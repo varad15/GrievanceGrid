@@ -54,7 +54,7 @@ GrievanceGrid is built to empower municipalities with the power to:
 
 ## About
 
-GrievanceGrid is designed with deep reference to real municipal workflows (e.g., PMC, smart city escalation ladders), deployable across cities, ULBs, or campus infrastructure.
+GrievanceGrid is designed with deep reference to real municipal workflows (e.g.smart city escalation ladders), deployable across cities, ULBs, or campus infrastructure.
 
 **Intended for private/internal deployment, pilots, and full-scale city operations.**
 
