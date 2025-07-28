@@ -4,7 +4,7 @@
 
 **GrievanceGrid** is a comprehensive, next-generation Smart Municipal Dashboard designed to streamline the handling, routing, and resolution of urban grievances for cities and municipal corporations.
 
-Our platform leverages advanced machine learning, workflow automation, and real-time analytics to ensure every citizen complaint is categorized, assigned, tracked, and resolved efficiently—across staff, department heads, and administrators.
+My platform leverages advanced machine learning, workflow automation, and real-time analytics to ensure every citizen complaint is categorized, assigned, tracked, and resolved efficiently—across staff, department heads, and administrators.
 
 ---
 
@@ -60,7 +60,8 @@ GrievanceGrid is designed with deep reference to real municipal workflows (e.g.s
 
 ---
 
-<!--
-For detailed documentation or access requests, please contact the repository owner.
--->
+## Note on Code Availability
 
+Please note that the current repository or project overview includes only screenshots and design documentation of **GrievanceGrid**, as the actual source code is still under active development and not publicly released at this stage. Additionally, this approach helps maintain project confidentiality and privacy during ongoing development and internal reviews.
+
+---
